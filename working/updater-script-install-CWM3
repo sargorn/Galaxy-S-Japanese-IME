@@ -1,0 +1,7 @@
+ui_print("Installing Samsung ja-ime..."); 
+mount("MTD", "system", "/system");
+package_extract_dir("app", "/system/app");
+package_extract_dir("lib", "/system/lib"); 
+package_extract_dir("fonts", "/system/fonts"); 
+unmount("/system");
+ui_print("Done.");

@@ -1,0 +1,6 @@
+show_progress 0.1 0
+copy_dir PACKAGE:system SYSTEM:
+set_perm_recursive 0 0 0755 0644 SYSTEM:app
+set_perm_recursive 0 0 0755 0644 SYSTEM:lib
+set_perm_recursive 0 0 0755 0644 SYSTEM:fonts
+show_progress 0.1 10

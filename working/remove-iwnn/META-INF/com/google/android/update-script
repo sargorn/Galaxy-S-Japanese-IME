@@ -1,0 +1,27 @@
+show_progress 0.1 0
+delete SYSTEM:app/iWnnIME.apk
+delete SYSTEM:fonts/DroidSansJapanese.ttf
+delete SYSTEM:lib/libEnjcon.so
+delete SYSTEM:lib/libEnjemailuri.so
+delete SYSTEM:lib/libEnjlearn.so
+delete SYSTEM:lib/libEnjlearnL.so
+delete SYSTEM:lib/libEnjlearnM.so
+delete SYSTEM:lib/libEnjrel.so
+delete SYSTEM:lib/libEnjyomi.so
+delete SYSTEM:lib/libiwnn.so
+delete SYSTEM:lib/libkaomoji_kihon.so
+delete SYSTEM:lib/libkaomoji_tyukyu.so
+delete SYSTEM:lib/libnjaddress.so
+delete SYSTEM:lib/libnjcon.so
+delete SYSTEM:lib/libnjemoji.so
+delete SYSTEM:lib/libnjexyomi.so
+delete SYSTEM:lib/libnjexyomi_new.so
+delete SYSTEM:lib/libnjexyomi_re.so
+delete SYSTEM:lib/libnjfzk.so
+delete SYSTEM:lib/libnjname.so
+delete SYSTEM:lib/libnjtan.so
+delete SYSTEM:lib/libnjubase1.so
+delete SYSTEM:lib/libnjubase2.so
+delete SYSTEM:lib/lib_dic.conf.so
+delete SYSTEM:lib/lib_dic_e.conf.so
+show_progress 0.1 10
